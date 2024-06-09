@@ -1,4 +1,4 @@
-![image](https://github.com/FJRG2007/FJRG2007/assets/79384376/e9a48159-2b48-49f6-925a-d132bc4a7d45)### Hi there 👋, I am FJRG2007
+### Hi there 👋, I am FJRG2007
 #### AI & Cybersecurity Specialist
 Experienced developer, acquiring knowledge and new training on a daily basis. Ready to turn an idea into a reality.
 
