@@ -2,7 +2,6 @@
 #### AI & Cybersecurity Specialist
 Experienced developer, acquiring knowledge and new training on a daily basis. Ready to turn an idea into a reality.
 
-- 🌟 Specializing in Artificial Intelligence and Cybersecurity
 - 💼 Open to exciting projects and collaborations
 
 📫 Connect with me:
