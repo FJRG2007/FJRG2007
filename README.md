@@ -1,5 +1,6 @@
 ### Hi there 👋, I am FJRG2007
-#### AI & Cybersecurity Specialist
+#### Cybersecurity & Artificial Intelligence Specialist | Founder & CEO, TPEOficial |
+Full-Stack Developer, DevSecOps & Intelligence Analyst
 Experienced developer, acquiring knowledge and new training on a daily basis. Ready to turn an idea into a reality.
 
 - 💼 Open to exciting projects and collaborations
