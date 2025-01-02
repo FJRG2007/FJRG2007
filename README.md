@@ -8,7 +8,7 @@ Experienced developer, acquiring knowledge and new training on a daily basis. Re
 - ⚡ [My portfolio](https://fjrg2007.tpeoficial.com/)
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/fjrg2007)
 
-<a href="https://fjrg2007.tpeoficial.com/">
+<a href="https://fjrg2007.tpeoficial.com/?ch-pg=fjrg2007-gh-profile">
   <img src="https://cdn.tpeoficial.com/SEO/Zj8Dj6Mu8Nr1Qq7Sl8Zs5Lq8Cj6Nv4Sc0Jk5Jm5K" alt="My portfolio" width="1920" />
 </a>
 
