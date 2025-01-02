@@ -1,5 +1,5 @@
 ### Hi there 👋, I am FJRG2007
-#### Cybersecurity & Artificial Intelligence Specialist | Founder & CEO, <a href="https://dymo.tpeoficial.com/?ch-pg=fjrg2007-gb-profile" target="_blank">TPEOficial</a> | Full-Stack Developer, DevSecOps & Intelligence Analyst
+#### Cybersecurity & Artificial Intelligence Specialist | Founder & CEO, <a href="https://dymo.tpeoficial.com/?ch-pg=fjrg2007-gh-profile" target="_blank">TPEOficial</a> | Full-Stack Developer, DevSecOps & Intelligence Analyst
 Experienced developer, acquiring knowledge and new training on a daily basis. Ready to turn an idea into a reality.
 
 - 💼 Open to exciting projects and collaborations
