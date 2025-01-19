@@ -5,8 +5,8 @@ Experienced developer, acquiring knowledge and new training on a daily basis. Re
 - 💼 Open to exciting projects and collaborations
 
 📫 Connect with me:
-- ⚡ [My portfolio](https://fjrg2007.tpeoficial.com/)
-- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/fjrg2007)
+- ⚡ [My Portfolio](https://fjrg2007.tpeoficial.com/)
+- 🧑‍💼 [LinkedIn Profile](https://www.linkedin.com/in/fjrg2007)
 - 💬 [Discord Server](https://tpe.li/dsc)
 
 <a href="https://fjrg2007.tpeoficial.com/?ch-pg=fjrg2007-gh-profile">
