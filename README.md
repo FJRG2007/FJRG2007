@@ -15,7 +15,7 @@ Experienced developer, acquiring knowledge and new training on a daily basis. Re
 
 <div align="center">
   <h3>📊 GitHub Stats:</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=FJRG2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=FJRG2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache=03/02/2025" alt="GitHub Stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FJRG2007&theme=dark&hide_border=false" alt="GitHub Streak Stats" /><br />
 </div>
 
