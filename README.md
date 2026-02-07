@@ -11,6 +11,14 @@ Experienced developer, acquiring knowledge and new training on a daily basis. Re
 
 🎁 [Visit Dymo now!](https://dymo.tpeoficial.com?ch-pg=fjrg2007-gh-profile)
 
+## 🚀 My Open Source Projects
+
+- 🌐 [OpenTunnel](https://github.com/FJRG2007/opentunnel) — Easily share ports and hosts without limitations  
+- 🏠 [Atlas (Coming Soon)](https://github.com/FJRG2007/atlas) — Complete platform for the home  
+- 🖱️ [Smart-Auto-Clicker](https://github.com/FJRG2007/smart-auto-clicker) — Automate your clicks easily  
+- 🗺️ [MLMap](https://github.com/FJRG2007/mlmap) — Project Mapping Online Tool  
+- 🔉 [Sounder](https://github.com/FJRG2007/sounder) — Quickly play local music/sound in your terminal
+
 <a href="https://fjrg2007.tpeoficial.com/?ch-pg=fjrg2007-gh-profile">
   <img src="https://cdn.tpeoficial.com/SEO/Zj8Dj6Mu8Nr1Qq7Sl8Zs5Lq8Cj6Nv4Sc0Jk5Jm5K" alt="My portfolio" width="1920" />
 </a>
