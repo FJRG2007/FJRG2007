@@ -13,10 +13,10 @@ Experienced developer, acquiring knowledge and new training on a daily basis. Re
 
 ## 🚀 My Open Source Projects
 
-- 🌐 [OpenTunnel](https://github.com/FJRG2007/opentunnel) — Easily share ports and hosts without limitations  
-- 🏠 [Atlas (Coming Soon)](https://github.com/FJRG2007/atlas) — Complete platform for the home  
-- 🖱️ [Smart-Auto-Clicker](https://github.com/FJRG2007/smart-auto-clicker) — Automate your clicks easily  
-- 🗺️ [MLMap](https://github.com/FJRG2007/mlmap) — Project Mapping Online Tool  
+- 🌐 [OpenTunnel](https://github.com/FJRG2007/opentunnel) — Easily share ports and hosts without limitations
+- 🏠 [Atlas (Coming Soon)](https://github.com/FJRG2007/atlas) — Complete platform for the home
+- 🗺️ [MLMap](https://github.com/FJRG2007/mlmap) — Project Mapping Online Tool
+- 🖱️ [Smart-Auto-Clicker](https://github.com/FJRG2007/smart-auto-clicker) — Automate your clicks easily    
 - 🔉 [Sounder](https://github.com/FJRG2007/sounder) — Quickly play local music/sound in your terminal
 
 <a href="https://fjrg2007.tpeoficial.com/?ch-pg=fjrg2007-gh-profile">
