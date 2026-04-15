@@ -5,7 +5,7 @@ Experienced developer, acquiring knowledge and new training on a daily basis. Re
 - 💼 Open to exciting projects and collaborations
 
 📫 Connect with me:
-- ⚡ [My Portfolio](https://fjrg2007.tpeoficial.com/?ch-pg=fjrg2007-gh-profile)
+- ⚡ [My Portfolio](https://fjrg2007.com/?ch-pg=fjrg2007-gh-profile)
 - 🧑‍💼 [LinkedIn Profile](https://www.linkedin.com/in/fjrg2007)
 - 💬 [Discord Server](https://tpe.li/dsc?ch-pg=fjrg2007-gh-profile)
 
@@ -19,7 +19,7 @@ Experienced developer, acquiring knowledge and new training on a daily basis. Re
 - 🖱️ [Smart-Auto-Clicker](https://github.com/FJRG2007/smart-auto-clicker) — Automate your clicks easily    
 - 🔉 [Sounder](https://github.com/FJRG2007/sounder) — Quickly play local music/sound in your terminal
 
-<a href="https://fjrg2007.tpeoficial.com/?ch-pg=fjrg2007-gh-profile">
+<a href="https://fjrg2007.com/?ch-pg=fjrg2007-gh-profile">
   <img src="https://cdn.tpeoficial.com/SEO/Zj8Dj6Mu8Nr1Qq7Sl8Zs5Lq8Cj6Nv4Sc0Jk5Jm5K" alt="My portfolio" width="1920" />
 </a>
 
