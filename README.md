@@ -13,6 +13,7 @@ Experienced developer, acquiring knowledge and new training on a daily basis. Re
 
 ## 🚀 My Open Source Projects
 
+- 🦺 [Enigma](https://github.com/FJRG2007/enigma) — Ship better code with your coding agent
 - 🧹 [Prunex](https://github.com/FJRG2007/prunex) — OS-agnostic system optimizer in Rust
 - 🌐 [OpenTunnel](https://github.com/FJRG2007/opentunnel) — Easily share ports and hosts without limitations
 - 🏠 [Atlas (Coming Soon)](https://github.com/FJRG2007/atlas) — Complete platform for the home
